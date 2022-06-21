@@ -531,10 +531,12 @@ let buttoons = [
 {buttonId: `${prefix}dashboard`, buttonText: {displayText: 'Dashboard'}, type: 1}
 ]
 let buttonMessaage = {
+document: ktedh, 
+fileName: `Axv Bot`, 
 mimetype: `application/${bykir}`,
 jpegThumbnail: ktedh,
 caption: mbc,
-fileLength: "000000",
+fileLength: "00000000",
 mentions:[sender, botzkir],
 footer: `_Powered By @${botzkir.split("@")[0]}_`,
 buttons: buttoons,
