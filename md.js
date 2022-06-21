@@ -525,7 +525,7 @@ const botzkir = "6287838563349@s.whatsapp.net"
 var rndm = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var bykir = rndm[Math.floor(Math.random() * rndm.length)]
 mbc = `Hai Kak @${sender.split("@")[0]} 
-Saya KirBotz Saya Disini Ingin Membantu Kalian Membuat Sticker Download Video/Lagu Youtube, Tiktok Dll.`
+Saya AXV BOT Saya Disini Ingin Membantu Kalian Membuat Sticker Download Video/Lagu Youtube, Tiktok Dll.`
 let buttoons = [
 {buttonId: `${prefix}allmenu`, buttonText: {displayText: 'All Menu'}, type: 1},
 {buttonId: `${prefix}dashboard`, buttonText: {displayText: 'Dashboard'}, type: 1}
@@ -997,29 +997,6 @@ sock.send5ButLoc(m.chat, memegnu, `Creator AXV `, tod, btn)
 }
 addCmd(command.slice(0), 1, commund)
 break
-case 'asupanmenu':
-simple.updatePresence(from, Presence.recording)
-emm =
-`Hai, ${pushname}
-${tampilUcapan}
-Name Bot : ${botname} 
-Jam : ${time}
-HARI : ${week}, ${weton}, ${date}`
-oy =`
-⸙Asupan Menu⸙
-${prefix}asupan
-${prefix}asupancecan
-${prefix}asupanhillllljaber
-${prefix}asupansantuy
-${prefix}asupanukhti
-${prefix}asupanbocil
-${prefix}asupanghea
-${prefix}asupanrika`  
-but = [
-          { buttonId: `${prefix}rulesbot`, buttonText: { displayText: '😎RULES BOT😎' }, type: 1 }
-        ]
-          sendButton(from, emm, oy, but)
-break
 
 case 'animes':{
 if (!isRegistered) return replyReg(api.verif)
@@ -1036,8 +1013,8 @@ let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.co
 var but = [
 {
 "urlButton": {
-"displayText": "Rest APIs",
-"url": `https://kirbotz-api.herokuapp.com`
+"displayText": "Website",
+"url": `https://axvstore.my.id`
 }
 }
 ]
