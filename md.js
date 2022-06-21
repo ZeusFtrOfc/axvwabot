@@ -564,7 +564,7 @@ orderMessage: {
 itemCount: 99999999,
 status: 1,
 surface: 1,
-message: 'Created By axv bot',
+message: 'Created By AXV bot',
 orderTitle: '999999999', 
 sellerJid: `0@s.whatsapp.net` 
 }
@@ -681,322 +681,346 @@ Tanggal : ${tanggal(new Date())}
 Total : ${_registered.length} User
 
 *╭──「 OWNER 」*
-☻︎ $ [ EXE ]
-☻︎ > [ EVAL ]
-☻︎ < [ EVAL2 ]
-☻︎ => [ ASYNC ]
-*┃➥${prefix}public
-*┃➥${prefix}self
-*┃➥${prefix}out
-*┃➥${prefix}setppbot 'panjang'
-*┃➥${prefix}ban add 628××××××
-*┃➥${prefix}ban del 628××××××
-*┃➥${prefix}addowner 628×××××
-*┃➥${prefix}delowner 628×××××
-*┃➥${prefix}listban
-*┃➥${prefix}getcase owner
-*┃➥${prefix}bcall
-*┃➥${prefix}join linkgc
-*┃➥${prefix}creategc namegc
-*┃➥${prefix}bugfc
-*┃➥${prefix}sendbugcatalogpc 6282119078278|9|9s
-*┃➥${prefix}sendbug 6282119078278|9
-*┃➥${prefix}bugpc 6282119078278|9|9s
-*┃➥${prefix}buggc 97455446178-1461236988@g.us|9|9s
+┃➥ $ [ EXE ]
+┃➥ > [ EVAL ]
+┃➥ < [ EVAL2 ]
+┃➥ => [ ASYNC ]
+┃➥${prefix}public
+┃➥${prefix}self
+┃➥${prefix}out
+┃➥${prefix}setppbot 'panjang'
+┃➥${prefix}ban add 628××××××
+┃➥${prefix}ban del 628××××××
+┃➥${prefix}addowner 628×××××
+┃➥${prefix}delowner 628×××××
+┃➥${prefix}listban
+┃➥${prefix}getcase owner
+┃➥${prefix}bcall
+┃➥${prefix}join linkgc
+┃➥${prefix}creategc namegc
+┃➥${prefix}bugfc
+┃➥${prefix}sendbugcatalogpc 628xxxx|9|9s
+┃➥${prefix}sendbug 628xxx|9
+┃➥${prefix}bugpc 628xxx|9|9s
+┃➥${prefix}buggc xxx-1461236988@g.us|9|9s
 *╰─────────────*
 
 *╭──「 Other 」*
-*┃➥${prefix}owner
-*┃➥${prefix}dashboard
-*┃➥${prefix}report keluhan
-*┃➥${prefix}sticker reply sticker
-*┃➥${prefix}toimg reply image
-*┃➥${prefix}tourl reply image
-*┃➥${prefix}quotesanime
-*┃➥${prefix}get link
+┃➥${prefix}owner
+┃➥${prefix}dashboard
+┃➥${prefix}report keluhan
+┃➥${prefix}sticker reply sticker
+┃➥${prefix}toimg reply image
+┃➥${prefix}tourl reply image
+┃➥${prefix}quotesanime
+┃➥${prefix}get link
 *╰─────────────*
 
 *╭──「 Islami 」*
-*┃➥${prefix}asmaulhusna
-*┃➥${prefix}bacaanshalat
-*┃➥${prefix}niatsholat isya
-*┃➥${prefix}jadwalsholat tasikmalaya
-*┃➥${prefix}listsurah
-*┃➥${prefix}kisahnabi adam
-*┃➥${prefix}ayatkursi
-*┃➥${prefix}doaharian
+┃➥${prefix}asmaulhusna
+┃➥${prefix}bacaanshalat
+┃➥${prefix}niatsholat isya
+┃➥${prefix}jadwalsholat tasikmalaya
+┃➥${prefix}listsurah
+┃➥${prefix}kisahnabi adam
+┃➥${prefix}ayatkursi
+┃➥${prefix}doaharian
 *╰─────────────*
 
 *╭──「 Stalker 」*
-*┃➥${prefix}ffstalk 946716486
-*┃➥${prefix}ghstalk 
-*┃➥${prefix}igstalk jokowi
-*┃➥${prefix}npmstalk @adiwajshing/baileys
+┃➥${prefix}ffstalk 946716486
+┃➥${prefix}ghstalk 
+┃➥${prefix}igstalk jokowi
+┃➥${prefix}npmstalk @adiwajshing/baileys
 *╰─────────────*
 
 *╭──「 Downloader 」*
-*┃➥${prefix}play query
-*┃➥${prefix}ytmp4 link
-*┃➥${prefix}ytmp3 link
-*┃➥${prefix}tiktoknowm link
-*┃➥${prefix}tiktokaudio link
-*┃➥${prefix}mediafire link
-*┃➥${prefix}instagram link
-*┃➥${prefix}animes boruto
+┃➥${prefix}play query
+┃➥${prefix}ytmp4 link
+┃➥${prefix}ytmp3 link
+┃➥${prefix}tiktoknowm link
+┃➥${prefix}tiktokaudio link
+┃➥${prefix}mediafire link
+┃➥${prefix}instagram link
+┃➥${prefix}animes boruto
 *╰─────────────*
 
 *╭──「 Group 」*
-*┃➥${prefix}listgc
-*┃➥${prefix}antilink on
-*┃➥${prefix}antilink off
-*┃➥${prefix}antionce on
-*┃➥${prefix}antionce off
-*┃➥${prefix}antidelete on
-*┃➥${prefix}antidelete off
-*┃➥${prefix}promote @628×××××
-*┃➥${prefix}demote @628××××××
-*┃➥${prefix}add 628×××××
-*┃➥${prefix}kick @628××××
-*┃➥${prefix}tagall teks
-*┃➥${prefix}hidetag teks
+┃➥${prefix}listgc
+┃➥${prefix}antilink on
+┃➥${prefix}antilink off
+┃➥${prefix}antionce on
+┃➥${prefix}antionce off
+┃➥${prefix}antidelete on
+┃➥${prefix}antidelete off
+┃➥${prefix}promote @628×××××
+┃➥${prefix}demote @628××××××
+┃➥${prefix}add 628×××××
+┃➥${prefix}kick @628××××
+┃➥${prefix}tagall teks
+┃➥${prefix}hidetag teks
 *╰─────────────*
 
 *╭──「 Video 」*
-*┃➥${prefix}hentai
-*┃➥${prefix}porno
-*┃➥${prefix}asupan
-*┃➥${prefix}bocil
-*┃➥${prefix}rikagusriani
+┃➥${prefix}hentai
+┃➥${prefix}porno
+┃➥${prefix}asupan
+┃➥${prefix}bocil
+┃➥${prefix}rikagusriani
 *╰─────────────*
 
 *╭──「 Foto* 」*
-*┃➥${prefix}waifu2 
-*┃➥${prefix}megumin2 
-*┃➥${prefix}shinobu 
-*┃➥${prefix}awoo 
-*┃➥${prefix}neko3 
-*┃➥${prefix}bully 
-*┃➥${prefix}cuddle 
-*┃➥${prefix}hug 
-*┃➥${prefix}cry 
-*┃➥${prefix}kiss 
-*┃➥${prefix}lick 
-*┃➥${prefix}pat 
-*┃➥${prefix}bonk 
-*┃➥${prefix}yeet
-*┃➥${prefix}islamic
-*┃➥${prefix}aesthetic
-*┃➥${prefix}ahegao
-*┃➥${prefix}akira
-*┃➥${prefix}akiyama
-*┃➥${prefix}ana
-*┃➥${prefix}anime
-*┃➥${prefix}anjing
-*┃➥${prefix}art
-*┃➥${prefix}ass
-*┃➥${prefix}asuna
-*┃➥${prefix}ayuzawa
-*┃➥${prefix}bdsm
-*┃➥${prefix}randblackpink
-*┃➥${prefix}boneka
-*┃➥${prefix}boruto
-*┃➥${prefix}bts
-*┃➥${prefix}cecan
-*┃➥${prefix}chiho
-*┃➥${prefix}chitoge
-*┃➥${prefix}cogan
-*┃➥${prefix}cosplay
-*┃➥${prefix}cosplayloli
-*┃➥${prefix}cosplaysagiri
-*┃➥${prefix}cuckold
-*┃➥${prefix}cum
-*┃➥${prefix}cyber
-*┃➥${prefix}darkjokes
-*┃➥${prefix}deidara
-*┃➥${prefix}doraemon
-*┃➥${prefix}eba
-*┃➥${prefix}elaina
-*┃➥${prefix}emilia
-*┃➥${prefix}ero
-*┃➥${prefix}exo
-*┃➥${prefix}erza
-*┃➥${prefix}femdom
-*┃➥${prefix}foot
-*┃➥${prefix}freefire
-*┃➥${prefix}gamewallpaper
-*┃➥${prefix}gangbang
-*┃➥${prefix}gifs
-*┃➥${prefix}glasses
-*┃➥${prefix}gremory
-*┃➥${prefix}hekel
-*┃➥${prefix}hentai
-*┃➥${prefix}hestia
-*┃➥${prefix}hijaber
-*┃➥${prefix}hinata
-*┃➥${prefix}husbu
-*┃➥${prefix}inori
-*┃➥${prefix}isuzu
-*┃➥${prefix}itachi
-*┃➥${prefix}itori
-*┃➥${prefix}jahy
-*┃➥${prefix}jeni
-*┃➥${prefix}jiso
-*┃➥${prefix}justina
-*┃➥${prefix}kaga
-*┃➥${prefix}kagura
-*┃➥${prefix}kakasih
-*┃➥${prefix}kaori
-*┃➥${prefix}kartun
-*┃➥${prefix}katakata
-*┃➥${prefix}keneki
-*┃➥${prefix}kotori
-*┃➥${prefix}kpop
-*┃➥${prefix}kucing
-*┃➥${prefix}kurumi
-*┃➥${prefix}lisa
-*┃➥${prefix}loli
-*┃➥${prefix}madara
-*┃➥${prefix}masturbation
-*┃➥${prefix}megumin
-*┃➥${prefix}mikasa
-*┃➥${prefix}mikey
-*┃➥${prefix}miku
-*┃➥${prefix}milf
-*┃➥${prefix}minato
-*┃➥${prefix}mobil
-*┃➥${prefix}motor
-*┃➥${prefix}mountain
-*┃➥${prefix}naruto
-*┃➥${prefix}neko
-*┃➥${prefix}neko2
-*┃➥${prefix}nekonime
-*┃➥${prefix}nezuko
-*┃➥${prefix}onepiece
-*┃➥${prefix}orgy
-*┃➥${prefix}panties
-*┃➥${prefix}pentol
-*┃➥${prefix}pokemon
-*┃➥${prefix}ppcouple
-*┃➥${prefix}profil
-*┃➥${prefix}programming
-*┃➥${prefix}pubg
-*┃➥${prefix}pussy
-*┃➥${prefix}quotesyt
-*┃➥${prefix}rize
-*┃➥${prefix}rose
-*┃➥${prefix}ryujin
-*┃➥${prefix}randomnime
-*┃➥${prefix}sagiri
-*┃➥${prefix}sakura
-*┃➥${prefix}sasuke
-*┃➥${prefix}satanic
-*┃➥${prefix}shina
-*┃➥${prefix}shinka
-*┃➥${prefix}shinomiya
-*┃➥${prefix}shizuka
-*┃➥${prefix}shota
-*┃➥${prefix}tatasurya
-*┃➥${prefix}technology
-*┃➥${prefix}tejina
-*┃➥${prefix}tentacles
-*┃➥${prefix}thighs
-*┃➥${prefix}toukachan
-*┃➥${prefix}tsunade
-*┃➥${prefix}waifu
-*┃➥${prefix}wallhp
-*┃➥${prefix}wallml
-*┃➥${prefix}wallnime
-*┃➥${prefix}yotsuba
-*┃➥${prefix}yuki
-*┃➥${prefix}yulibocil
-*┃➥${prefix}yumeko
+┃➥${prefix}waifu2 
+┃➥${prefix}megumin2 
+┃➥${prefix}shinobu 
+┃➥${prefix}awoo 
+┃➥${prefix}neko3 
+┃➥${prefix}bully 
+┃➥${prefix}cuddle 
+┃➥${prefix}hug 
+┃➥${prefix}cry 
+┃➥${prefix}kiss 
+┃➥${prefix}lick 
+┃➥${prefix}pat 
+┃➥${prefix}bonk 
+┃➥${prefix}yeet
+┃➥${prefix}islamic
+┃➥${prefix}aesthetic
+┃➥${prefix}ahegao
+┃➥${prefix}akira
+┃➥${prefix}akiyama
+┃➥${prefix}ana
+┃➥${prefix}anime
+┃➥${prefix}anjing
+┃➥${prefix}art
+┃➥${prefix}ass
+┃➥${prefix}asuna
+┃➥${prefix}ayuzawa
+┃➥${prefix}bdsm
+┃➥${prefix}randblackpink
+┃➥${prefix}boneka
+┃➥${prefix}boruto
+┃➥${prefix}bts
+┃➥${prefix}cecan
+┃➥${prefix}chiho
+┃➥${prefix}chitoge
+┃➥${prefix}cogan
+┃➥${prefix}cosplay
+┃➥${prefix}cosplayloli
+┃➥${prefix}cosplaysagiri
+┃➥${prefix}cuckold
+┃➥${prefix}cum
+┃➥${prefix}cyber
+┃➥${prefix}darkjokes
+┃➥${prefix}deidara
+┃➥${prefix}doraemon
+┃➥${prefix}eba
+┃➥${prefix}elaina
+┃➥${prefix}emilia
+┃➥${prefix}ero
+┃➥${prefix}exo
+┃➥${prefix}erza
+┃➥${prefix}femdom
+┃➥${prefix}foot
+┃➥${prefix}freefire
+┃➥${prefix}gamewallpaper
+┃➥${prefix}gangbang
+┃➥${prefix}gifs
+┃➥${prefix}glasses
+┃➥${prefix}gremory
+┃➥${prefix}hekel
+┃➥${prefix}hentai
+┃➥${prefix}hestia
+┃➥${prefix}hijaber
+┃➥${prefix}hinata
+┃➥${prefix}husbu
+┃➥${prefix}inori
+┃➥${prefix}isuzu
+┃➥${prefix}itachi
+┃➥${prefix}itori
+┃➥${prefix}jahy
+┃➥${prefix}jeni
+┃➥${prefix}jiso
+┃➥${prefix}justina
+┃➥${prefix}kaga
+┃➥${prefix}kagura
+┃➥${prefix}kakasih
+┃➥${prefix}kaori
+┃➥${prefix}kartun
+┃➥${prefix}katakata
+┃➥${prefix}keneki
+┃➥${prefix}kotori
+┃➥${prefix}kpop
+┃➥${prefix}kucing
+┃➥${prefix}kurumi
+┃➥${prefix}lisa
+┃➥${prefix}loli
+┃➥${prefix}madara
+┃➥${prefix}masturbation
+┃➥${prefix}megumin
+┃➥${prefix}mikasa
+┃➥${prefix}mikey
+┃➥${prefix}miku
+┃➥${prefix}milf
+┃➥${prefix}minato
+┃➥${prefix}mobil
+┃➥${prefix}motor
+┃➥${prefix}mountain
+┃➥${prefix}naruto
+┃➥${prefix}neko
+┃➥${prefix}neko2
+┃➥${prefix}nekonime
+┃➥${prefix}nezuko
+┃➥${prefix}onepiece
+┃➥${prefix}orgy
+┃➥${prefix}panties
+┃➥${prefix}pentol
+┃➥${prefix}pokemon
+┃➥${prefix}ppcouple
+┃➥${prefix}profil
+┃➥${prefix}programming
+┃➥${prefix}pubg
+┃➥${prefix}pussy
+┃➥${prefix}quotesyt
+┃➥${prefix}rize
+┃➥${prefix}rose
+┃➥${prefix}ryujin
+┃➥${prefix}randomnime
+┃➥${prefix}sagiri
+┃➥${prefix}sakura
+┃➥${prefix}sasuke
+┃➥${prefix}satanic
+┃➥${prefix}shina
+┃➥${prefix}shinka
+┃➥${prefix}shinomiya
+┃➥${prefix}shizuka
+┃➥${prefix}shota
+┃➥${prefix}tatasurya
+┃➥${prefix}technology
+┃➥${prefix}tejina
+┃➥${prefix}tentacles
+┃➥${prefix}thighs
+┃➥${prefix}toukachan
+┃➥${prefix}tsunade
+┃➥${prefix}waifu
+┃➥${prefix}wallhp
+┃➥${prefix}wallml
+┃➥${prefix}wallnime
+┃➥${prefix}yotsuba
+┃➥${prefix}yuki
+┃➥${prefix}yulibocil
+┃➥${prefix}yumeko
 *╰─────────────*
 
 *╭──「 Text Pro 」*
-*┃➥${prefix}candy teks
-*┃➥${prefix}christmas teks
-*┃➥${prefix}3dchristmas teks
-*┃➥${prefix}sparklechristmas teks
-*┃➥${prefix}deepsea teks
-*┃➥${prefix}scifi teks
-*┃➥${prefix}rainbow teks
-*┃➥${prefix}waterpipe teks
-*┃➥${prefix}spooky teks
-*┃➥${prefix}pencil teks
-*┃➥${prefix}circuit teks
-*┃➥${prefix}discovery teks
-*┃➥${prefix}metalic teks
-*┃➥${prefix}fiction teks
-*┃➥${prefix}demon teks
-*┃➥${prefix}transformer teks
-*┃➥${prefix}berry teks
-*┃➥${prefix}thunder teks
-*┃➥${prefix}magma teks
-*┃➥${prefix}3dstone teks
-*┃➥${prefix}neonlight teks
-*┃➥${prefix}glitch teks
-*┃➥${prefix}harrypotter teks
-*┃➥${prefix}brokenglass teks
-*┃➥${prefix}papercut teks
-*┃➥${prefix}watercolor teks
-*┃➥${prefix}multicolor teks
-*┃➥${prefix}neondevil teks
-*┃➥${prefix}underwater teks
-*┃➥${prefix}graffitibike teks
-*┃➥${prefix}snow teks
-*┃➥${prefix}cloud teks
-*┃➥${prefix}honey teks
-*┃➥${prefix}ice teks
-*┃➥${prefix}fruitjuice teks
-*┃➥${prefix}biscuit teks
-*┃➥${prefix}wood teks
-*┃➥${prefix}chocolate teks
-*┃➥${prefix}strawberry teks
-*┃➥${prefix}matrix teks
-*┃➥${prefix}blood teks
-*┃➥${prefix}dropwater teks
-*┃➥${prefix}toxic teks
-*┃➥${prefix}lava teks
-*┃➥${prefix}rock teks
-*┃➥${prefix}bloodglas teks
-*┃➥${prefix}hallowen teks
-*┃➥${prefix}darkgold teks
-*┃➥${prefix}joker teks
-*┃➥${prefix}wicker teks
-*┃➥${prefix}firework teks
-*┃➥${prefix}skeleton teks
-*┃➥${prefix}blackpink teks
-*┃➥${prefix}sand teks
-*┃➥${prefix}glue teks
-*┃➥${prefix}1917 teks
-*┃➥${prefix}leaves teks
-*┃➥${prefix}stoneeffect teks
+┃➥${prefix}candy teks
+┃➥${prefix}christmas teks
+┃➥${prefix}3dchristmas teks
+┃➥${prefix}sparklechristmas teks
+┃➥${prefix}deepsea teks
+┃➥${prefix}scifi teks
+┃➥${prefix}rainbow teks
+┃➥${prefix}waterpipe teks
+┃➥${prefix}spooky teks
+┃➥${prefix}pencil teks
+┃➥${prefix}circuit teks
+┃➥${prefix}discovery teks
+┃➥${prefix}metalic teks
+┃➥${prefix}fiction teks
+┃➥${prefix}demon teks
+┃➥${prefix}transformer teks
+┃➥${prefix}berry teks
+┃➥${prefix}thunder teks
+┃➥${prefix}magma teks
+┃➥${prefix}3dstone teks
+┃➥${prefix}neonlight teks
+┃➥${prefix}glitch teks
+┃➥${prefix}harrypotter teks
+┃➥${prefix}brokenglass teks
+┃➥${prefix}papercut teks
+┃➥${prefix}watercolor teks
+┃➥${prefix}multicolor teks
+┃➥${prefix}neondevil teks
+┃➥${prefix}underwater teks
+┃➥${prefix}graffitibike teks
+┃➥${prefix}snow teks
+┃➥${prefix}cloud teks
+┃➥${prefix}honey teks
+┃➥${prefix}ice teks
+┃➥${prefix}fruitjuice teks
+┃➥${prefix}biscuit teks
+┃➥${prefix}wood teks
+┃➥${prefix}chocolate teks
+┃➥${prefix}strawberry teks
+┃➥${prefix}matrix teks
+┃➥${prefix}blood teks
+┃➥${prefix}dropwater teks
+┃➥${prefix}toxic teks
+┃➥${prefix}lava teks
+┃➥${prefix}rock teks
+┃➥${prefix}bloodglas teks
+┃➥${prefix}hallowen teks
+┃➥${prefix}darkgold teks
+┃➥${prefix}joker teks
+┃➥${prefix}wicker teks
+┃➥${prefix}firework teks
+┃➥${prefix}skeleton teks
+┃➥${prefix}blackpink teks
+┃➥${prefix}sand teks
+┃➥${prefix}glue teks
+┃➥${prefix}1917 teks
+┃➥${prefix}leaves teks
+┃➥${prefix}stoneeffect teks
 *╰─────────────*
 
 *╭──「 Photo Oxy 」*
-*┃➥${prefix}undertextbiru teks
-*┃➥${prefix}undertextungu teks
-*┃➥${prefix}undertextbirumuda teks
-*┃➥${prefix}undertexthijau teks
-*┃➥${prefix}undertextemas teks
-*┃➥${prefix}undertextpink teks
-*┃➥${prefix}shadow teks
-*┃➥${prefix}write teks
-*┃➥${prefix}romantic teks
-*┃➥${prefix}burnpaper teks
-*┃➥${prefix}smoke teks 
-*┃➥${prefix}narutoo teks 
-*┃➥${prefix}love teks 
-*┃➥${prefix}undergrass teks
-*┃➥${prefix}doublelove teks 
-*┃➥${prefix}coffecup teks 
-*┃➥${prefix}tiktokeffect teks1 teks2
+┃➥${prefix}undertextbiru teks
+┃➥${prefix}undertextungu teks
+┃➥${prefix}undertextbirumuda teks
+┃➥${prefix}undertexthijau teks
+┃➥${prefix}undertextemas teks
+┃➥${prefix}undertextpink teks
+┃➥${prefix}shadow teks
+┃➥${prefix}write teks
+┃➥${prefix}romantic teks
+┃➥${prefix}burnpaper teks
+┃➥${prefix}smoke teks 
+┃➥${prefix}narutoo teks 
+┃➥${prefix}love teks 
+┃➥${prefix}undergrass teks
+┃➥${prefix}doublelove teks 
+┃➥${prefix}coffecup teks 
+┃➥${prefix}tiktokeffect teks1 teks2
 *╰─────────────*`
 let btn = []
 sock.send5ButLoc(m.chat, memegnu, `Creator AXV `, tod, btn)
 }
 addCmd(command.slice(0), 1, commund)
 break
+case 'asupanmenu':
+simple.updatePresence(from, Presence.recording)
+emm =
+`Hai, ${pushname}
+${tampilUcapan}
+Name Bot : ${botname} 
+Jam : ${time}
+HARI : ${week}, ${weton}, ${date}`
+oy =`
+⸙Asupan Menu⸙
+${prefix}asupan
+${prefix}asupancecan
+${prefix}asupanhillllljaber
+${prefix}asupansantuy
+${prefix}asupanukhti
+${prefix}asupanbocil
+${prefix}asupanghea
+${prefix}asupanrika`  
+but = [
+          { buttonId: `${prefix}rulesbot`, buttonText: { displayText: '😎RULES BOT😎' }, type: 1 }
+        ]
+          sendButton(from, emm, oy, but)
+break
+
 case 'animes':{
 if (!isRegistered) return replyReg(api.verif)
 if (isBan) return reply(api.ban)
@@ -1906,7 +1930,7 @@ contextInfo: {
 "mediaType": 2, 
 "thumbnail": ppnyauser,
 "previewType": "VIDEO",
-"mediaUrl": 'https://youtu.be/b0CCKgVEhlk',
+"mediaUrl": '',
 "sourceUrl": 'https://chat.whatsapp.com/K7CyWPZ3fpq30bRziLLMrm'
 }}
 }
@@ -1945,7 +1969,7 @@ sock.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4',
 "mediaType": 2, 
 "thumbnail": ppnyauser,
 "previewType": "VIDEO",
-"mediaUrl": 'https://youtu.be/b0CCKgVEhlk',
+"mediaUrl": '',
 "sourceUrl": 'https://chat.whatsapp.com/K7CyWPZ3fpq30bRziLLMrm'
 }}}, { quoted: m })
 }
@@ -1968,7 +1992,7 @@ sock.sendMessage(m.chat, { audio: { url: media.dl_link }, mimetype: 'audio/mp4',
 "mediaType": 2, 
 "thumbnail": ppnyauser,
 "previewType": "VIDEO",
-"mediaUrl": 'https://youtu.be/b0CCKgVEhlk',
+"mediaUrl": '',
 "sourceUrl": 'https://chat.whatsapp.com/K7CyWPZ3fpq30bRziLLMrm'
 }}}, { quoted: m })
 }
@@ -2004,7 +2028,7 @@ contextInfo: {
 "mediaType": 2, 
 "thumbnail": ppnyauser,
 "previewType": "VIDEO",
-"mediaUrl": 'https://youtu.be/b0CCKgVEhlk',
+"mediaUrl": '',
 "sourceUrl": 'https://chat.whatsapp.com/K7CyWPZ3fpq30bRziLLMrm'
 }}
 }
