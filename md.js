@@ -2148,7 +2148,7 @@ jpegThumbnail: ktedh,
 caption: `Nih Kak @${sender.split("@")[0]}`,
 fileLength: "999999999",
 mentions:[sender],
-footer: `_Powered By Akira_`,
+footer: `_Powered By AXV`,
 buttons: buttoons,
 headerType: 4,
 contextInfo: {
