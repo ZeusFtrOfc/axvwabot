@@ -28,7 +28,7 @@ global.api =
     private: '```Fitur Digunakan Hanya Untuk Private Chat!!!```',
     bot: '```Fitur Khusus Pengguna Nomor Bot!!!```',
     error: '```Mungkin Lagi Error Kak Harap Lapor Owner Biar Langsung Di Benerin🙏```',
-    wait: '```Waittt...```',
+    wait: '```*[ WAIT ]* _Sedang diproses⏳ silakan tunggu sebentar!```',
     ban: '_Maaf Kamu Sudah Di Ban Silahkan Chat Owner Di Bawah Untuk Membuka Nya_',
     verif: '_Maaf Kak Kakak Belum Jadi User AXV Bot, Silahkan Register Terlebih Dahulu Click Di Bawah_'
 }
