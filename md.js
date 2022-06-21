@@ -511,7 +511,7 @@ var anj = `「 *PENDAFTARAN USER* 」
 *🌹 API :* +${sender.split('@')[0]}
 *🌹 Serial:* ${serialUser}
 *🌹 Total:* ${_registered.length} Pengguna`
-sock.sendMessage(from, { caption: anj, location: { jpegThumbnail: ktedh }, templateButtons: button, footer: `Creator Akira ꪶ𖣂ꫂ`, mentions: [m.sender] })
+sock.sendMessage(from, { caption: anj, location: { jpegThumbnail: ktedh }, templateButtons: button, footer: `Creator AXV Bot`, mentions: [m.sender] })
 .catch ((err) => reply(err))
 }
 
@@ -1225,9 +1225,9 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "1000",
 "retailerId": `Nomor Owner Di Atas`,
-"url": `https://wa.me/6287705048235`
+"url": `https://wa.me/6287838563349`
 },
-"businessOwnerJid": "6287705048235@s.whatsapp.net",
+"businessOwnerJid": "6287838563349@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: lep  })
 sock.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -1292,9 +1292,9 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "1000",
 "retailerId": `Nomor Owner Di Atas`,
-"url": `https://wa.me/6287705048235`
+"url": `https://wa.me/6287838563349`
 },
-"businessOwnerJid": "6287705048235@s.whatsapp.net",
+"businessOwnerJid": "6287838563349@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: lep  })
 sock.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -1876,7 +1876,7 @@ let search = await yts(text)
 url = search.videos[0].url
 let anu = search.videos[Math.floor(Math.random() * search.videos.length)]
 eek = await getBuffer(anu.thumbnail)
-owned = '6287705048235'
+owned = '6287838563349'
 ngen = `
 🕵️ Title : ${anu.title}
 🥀 Ext : Search
@@ -1982,7 +1982,7 @@ if (!isUrl(args[0]) && !args[0].includes('tiktok.com')) return reply(`Contoh ${p
 let dede = await cl.downloader.tiktok(`${q}`)
 krt = await getBuffer(dede.nowm)
 reply(api.wait)
-owned = '6287705048235'
+owned = '6287838563349'
 mbc = `Nih Kak @${sender.split("@")[0]} `
 let buttons = [
 {buttonId: `${prefix}tiktokaudio ${q}`, buttonText: {displayText: 'Audio'}, type: 1}
@@ -2187,7 +2187,7 @@ if (!isRegistered) return replyReg(api.verif)
 if (isBan) return reply(api.ban)
 if (!text) return reply(`Link Nya Kak???`)
 if (!isUrl(args[0]) && !args[0].includes('mediafire.com')) return reply(`Contoh ${prefix+command} https://www.mediafire.com/file/uoo686zvjoouwpr/SC_GRUB_OKEP_%255BNO_CURL_S2M%255D.zip/file`)
-const djej = "6287705048235@s.whatsapp.net"
+const djej = "6287838563349@s.whatsapp.net"
 const zk = await mediafiredl(`${text}`)
 const mbc = `Nih Kak @${sender.split("@")[0]}\nDownload File Di Atas Yah\n\nUrl : ${zk.url}\nUrl² : ${zk.url2}\nFilename : ${zk.filename}\nFiletype : ${zk.filetype}\nExt : ${zk.ext}\nUpload : ${zk.aploud}\nFilesizeH : ${zk.filesizeH}\nFilesize : ${zk.filesize}`
 let buuttoons = [
