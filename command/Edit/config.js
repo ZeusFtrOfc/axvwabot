@@ -30,7 +30,7 @@ global.api =
     error: '```Mungkin Lagi Error Kak Harap Lapor Owner Biar Langsung Di Benerin🙏```',
     wait: '```Waittt...```',
     ban: '_Maaf Kamu Sudah Di Ban Silahkan Chat Owner Di Bawah Untuk Membuka Nya_',
-    verif: '_Maaf Kak Kakak Belum Jadi User KirBotz Silahkan Register Terlebih Dahulu Click Di Bawah_'
+    verif: '_Maaf Kak Kakak Belum Jadi User AXV Bot, Silahkan Register Terlebih Dahulu Click Di Bawah_'
 }
 
 global.thumb = fs.readFileSync('./command/Image/thumb.jpg')
